@@ -1,0 +1,16 @@
+PODS:
+  - podSDKROOTIssueExample (0.1.0)
+
+DEPENDENCIES:
+  - podSDKROOTIssueExample (from `../`)
+
+EXTERNAL SOURCES:
+  podSDKROOTIssueExample:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  podSDKROOTIssueExample: 0d46d652986ce294c163247bcdd528a2525f72b2
+
+PODFILE CHECKSUM: 3b73aee4b2dbd4cde4db2cc322d78835aeafdfde
+
+COCOAPODS: 1.5.3
