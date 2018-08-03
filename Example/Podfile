@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'podSDKROOTIssueExample_Example' do
+  pod 'podSDKROOTIssueExample', :path => '../'
+
+  target 'podSDKROOTIssueExample_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
